@@ -13,7 +13,7 @@ export default function Home() {
                     <strong>Next.js Version:</strong> 16.2.12 <br />
                     <strong>React Version:</strong> 19.2.8 <br />
                     <strong>React DOM Version:</strong> 19.2.8 <br />
-                    <strong>TypeScript Version:</strong> 7.0.2 <br />
+                    <strong>TypeScript Version:</strong> 6.0.2 <br />
                     <strong>Tailwindcss Version:</strong> 4.3.3 <br />
                     <strong>Biome Version:</strong> 2.5.6 <br />
                 </p>
