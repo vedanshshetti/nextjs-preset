@@ -23,6 +23,11 @@ Great for SaaS landing pages, product showcases, or marketing sites.
 
 ---
 
+## `ai-chatbot-preset`
+An **AI Chatbot Starter** with a **simple**, **easy-to-use** UI, the **latest dependencies**, and an **API route you can easily update**.
+
+---
+
 ### ⚠ TypeScript Version Notice
 All presets use **TypeScript 6.0.3**.  
 Next.js does not fully support TypeScript 7 yet — upgrade at your own risk.
